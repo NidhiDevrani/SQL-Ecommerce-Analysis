@@ -7,9 +7,9 @@ The goal is to demonstrate advanced SQL skills such as **joins, aggregations, CT
 ---
 
 ## 📂 Datasets
-- `Customers.csv` → Customer details (ID, name, city, signup date)
-- `Products.csv` → Product details (ID, name, category, price)
-- `Orders.csv` → Orders placed by customers (ID, product, quantity, date)
+- `Customers_data.csv` → Customer details (ID, name, city, signup date)
+- `Products_data.csv` → Product details (ID, name, category, price)
+- `Orders_data.csv` → Orders placed by customers (ID, product, quantity, date)
 
 ---
 
@@ -23,27 +23,29 @@ The goal is to demonstrate advanced SQL skills such as **joins, aggregations, CT
 ---
 
 ## 🔍 Example Business Questions Answered
-1. **Who are the top spending customers?**
-2. **How can we rank customers based on total purchases?**
-3. **What are the daily sales trends and cumulative sales over time?**
-4. **Which customers buy across multiple product categories?**
+1. **Who are the top spending customers across all cities?**
+2. **Which cities contribute the most to total revenue**
+3. **What are the daily sales trends and cumulative growth over time?**
+4. **Which customers shop across multiple product categories?**
 5. **What are the most popular products in each city?**
+6. **Which product categories drive the most revenue? (extra since you have more categories now)**
 
 ---
 
 ## 📊 Key Insights
-- Customers from **Delhi** are among the top spenders.  
-- The **MacBook Air** is the highest-value product purchased.  
-- Customers who shop in **multiple categories** tend to spend more.  
-- The **Nike Shoes** are the most popular product in multiple cities.  
-- Running sales trend shows steady growth over time.
+-🏆 Top Customers: Ava Sharma, Ananya Iyer, and Rahul Mehta are the highest spenders.
+-🌆 Top Cities: Mumbai and Delhi generate the most revenue overall.
+-📈 Sales Trends: Daily sales are steady with cumulative revenue showing consistent growth.
+-🛍️ Multi-Category Buyers: 8 customers shop across multiple categories, led by Ava Sharma.
+-🏙️ Popular Products by City: Laptops dominate Mumbai, Smartphones lead Delhi, T-Shirts top Bangalore.
+-📦 Category Revenue: Electronics contribute ~55% of revenue, making them the main driver.
 
 ---
 
 ## 📁 Files in this Repository
-- `Customers.csv`
-- `Products.csv`
-- `Orders.csv`
+- `Customers_data.csv`
+- `Products_data.csv`
+- `Orders_data.csv`
 - `SQL_queries.sql`
 - `README.md` (this file)
 
