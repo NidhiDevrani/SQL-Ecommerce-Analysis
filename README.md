@@ -37,12 +37,12 @@ The goal is to demonstrate advanced SQL skills such as **joins, aggregations, CT
 ---
 
 ## 📊 Key Insights
--🏆 **Top Customers: Ava Sharma, Ananya Iyer, and Rahul Mehta are the highest spenders.**
--🌆 Top Cities: Mumbai and Delhi generate the most revenue overall.
--📈 Sales Trends: Daily sales are steady with cumulative revenue showing consistent growth.
--🛍️ Multi-Category Buyers: 8 customers shop across multiple categories, led by Ava Sharma.
--🏙️ Popular Products by City: Laptops dominate Mumbai, Smartphones lead Delhi, T-Shirts top Bangalore.
--📦 Category Revenue: Electronics contribute ~55% of revenue, making them the main driver.
+- 🏆 **Top Customers: Ava Sharma, Ananya Iyer, and Rahul Mehta are the highest spenders.**
+- 🌆 **Top Cities: Mumbai and Delhi generate the most revenue overall.**
+- 📈 **Sales Trends: Daily sales are steady with cumulative revenue showing consistent growth.**
+- 🛍️ **Multi-Category Buyers: 8 customers shop across multiple categories, led by Ava Sharma.**
+- 🏙️ **Popular Products by City: Laptops dominate Mumbai, Smartphones lead Delhi, T-Shirts top Bangalore.**
+- 📦 **Category Revenue: Electronics contribute ~55% of revenue, making them the main driver.**
 
 ---
 
