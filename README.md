@@ -1,5 +1,7 @@
 # 📊 SQL Project – E-commerce Sales Analysis
 
+📅 Date: [August, 2025]
+
 ## 📌 Project Overview
 This project analyzes sales data from a small e-commerce platform using **SQL**.  
 The goal is to demonstrate advanced SQL skills such as **joins, aggregations, CTEs, and window functions** to extract meaningful business insights.
