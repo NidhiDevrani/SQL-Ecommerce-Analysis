@@ -60,4 +60,3 @@ The goal is to demonstrate advanced SQL skills such as **joins, aggregations, CT
 **Nidhi Devrani**  
 - 📧 nidhidevrani01@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nidhi-devrani-b79159349)  
-- 💻 [GitHub](https://github.com/NidhiDevrani)
