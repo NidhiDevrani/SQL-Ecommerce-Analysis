@@ -32,7 +32,7 @@ The goal is to demonstrate advanced SQL skills such as **joins, aggregations, CT
 3. **What are the daily sales trends and cumulative growth over time?**
 4. **Which customers shop across multiple product categories?**
 5. **What are the most popular products in each city?**
-6. **Which product categories drive the most revenue? (extra since you have more categories now)**
+6. **Which product categories drive the most revenue?**
 
 ---
 
